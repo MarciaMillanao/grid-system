@@ -14,8 +14,8 @@ a{
 	text-align: center;
 }
 
-h3{
-
+.letra{
+	font-size: 12px;
 }	
 
 .inicio{
@@ -36,15 +36,16 @@ img{
 	
 }
 
+.chica{
+	width:8%;
+}
+
 .primero{
 	width: 100%;
 	margin: 0 auto;
+	background: #DDCFCF;
 	padding: 20px 10px;
 	position: relative;
-}
-
-.segundo{
-	
 }
 
 .episodios{
@@ -53,19 +54,23 @@ img{
 }
 
 .borde{
-	border:2px solid #DFD4D4;
+	border:2px solid #B3A9A9;
 	background: ;
 	margin: 20px 5px 0px;
 }
+
 .bordeuno{
-	border:1px solid white;
-	background: white;	
+	border:1px solid #B3A9A9;
 }
 
 .dos{
-padding: 0px 7px 0px 7px;		
+	padding: 0px 7px 0px 7px;		
 }
 
+.portadas{
+	font-size: 12px;
+	font-family:Arial;
+}
 footer{
 	background:#382626;
 	color: white;
@@ -76,33 +81,18 @@ footer{
 
 }
 
-.itunes{
-	background: url(../img/icons/itunes.png) no-repeat left;
-	padding: 0 0 0 10%;
+.asider{
+	padding: 5%;
+	margin-top: 10%;
+	
 }
 
-.master{
-	background: url(../img/icons/pencil.png) no-repeat left;
-	padding: 0 0 0 10%;
+.raya{
+	border-bottom: 2px solid #D9D1D1;
 }
 
-.pocket{
-	background: url(../img/icons/podcast.png) no-repeat left;
-	padding: 0 0 0 10%;
-}
-
-.radio{
-	background: url(../img/icons/radio.png) no-repeat left;
-	padding: 0 0 0 10%;
-}
-
-.for{
-	background: url(../img/icons/rss.png) no-repeat left;
-	padding: 0 0 0 10%;
-}
-
-ul li a{
-	text-decoration:none:;
+div ul li{
+	list-style:none;
 }
 .link{
 	margin: 5%;
@@ -119,7 +109,9 @@ ul li a{
 .texto{
 	margin: 1%;
 	font-size: 12px;
+	line-height: 300%;
 }
+
 .final{
 	font-size: 8px;
 	text-align: center;
