@@ -1,0 +1,126 @@
+/* Inserta tu código aqui */
+nav{
+	background: #5D5151;
+	width: 100%;
+	padding: 4%;
+
+}
+
+a{
+	text-decoration: none;
+	display: inline-block;
+	margin: 0px;
+	padding-bottom:0px;
+	text-align: center;
+}
+
+h3{
+
+}	
+
+.inicio{
+	color: white;
+	margin:1%;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.logo{
+	width: 8%;
+	margin-right: 5%;
+	float: left;
+
+}
+img{
+	width: 100%;
+	
+}
+
+.primero{
+	width: 100%;
+	margin: 0 auto;
+	padding: 20px 10px;
+	position: relative;
+}
+
+.segundo{
+	
+}
+
+.episodios{
+	position: relative;
+	bottom: 0px;
+}
+
+.borde{
+	border:2px solid #DFD4D4;
+	background: ;
+	margin: 20px 5px 0px;
+}
+.bordeuno{
+	border:1px solid white;
+	background: white;	
+}
+
+.dos{
+padding: 0px 7px 0px 7px;		
+}
+
+footer{
+	background:#382626;
+	color: white;
+	width: 100%;
+	margin: 0 auto;
+	padding: 3%;
+	font-family: Arial;
+
+}
+
+.itunes{
+	background: url(../img/icons/itunes.png) no-repeat left;
+	padding: 0 0 0 10%;
+}
+
+.master{
+	background: url(../img/icons/pencil.png) no-repeat left;
+	padding: 0 0 0 10%;
+}
+
+.pocket{
+	background: url(../img/icons/podcast.png) no-repeat left;
+	padding: 0 0 0 10%;
+}
+
+.radio{
+	background: url(../img/icons/radio.png) no-repeat left;
+	padding: 0 0 0 10%;
+}
+
+.for{
+	background: url(../img/icons/rss.png) no-repeat left;
+	padding: 0 0 0 10%;
+}
+
+ul li a{
+	text-decoration:none:;
+}
+.link{
+	margin: 5%;
+	color: white;
+}
+
+.fin{
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	right: 40px;
+}
+
+.texto{
+	margin: 1%;
+	font-size: 12px;
+}
+.final{
+	font-size: 8px;
+	text-align: center;
+}
